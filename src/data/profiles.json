@@ -1,0 +1,51 @@
+[
+    {
+        "image":"../src/data/profile-pics/prof-1.jpg",
+        "name":"Udan",
+        "post":"Software Developer" ,
+        "about":"dsfdsffdseldin ence and fghghghghgICT field about",
+        "interests":"iin SciencedvghghgICT fieldn Science and fghghghghgICT field",
+        "online": false,
+        "message": "Hello Bro What's Up 🙂",
+        "unread" : 3
+
+    },
+    {
+        "image":"../src/data/profile-pics/prof-2.jpg",
+        "name":"Nisal",
+        "post":"Soldier" ,
+        "about":"dsfdsffdseldin ence and fghghghghgICT field about",
+        "interests":"iin SciencedvghghgICT fieldn Science and fghghghghgICT field",
+        "online": true,
+        "message": "Are you playing Games these days"
+    },
+    {
+        "image":"../src/data/profile-pics/prof-3.jpg",
+        "name":"Poorna",
+        "post":"Engineer" ,
+        "about":"dsfdsffdseldin ence and fghghghghgICT field about",
+        "interests":"iin SciencedvghghgICT fieldn Science and fghghghghgICT field",
+        "online": true,
+        "message": "What about cricket match?",
+        "unread" : 4
+    },
+    {
+        "image":"../src/data/profile-pics/prof-4.jpg",
+        "name":"Nividu",
+        "post":"Physics professor" ,
+        "about":"dsfdsffdseldin ence and fghghghghgICT field about",
+        "interests":"iin SciencedvghghgICT fieldn Science and fghghghghgICT field",
+        "online": false,
+        "message": "Are you still interested in Js 😎😎",
+        "unread" : 2
+    },
+    {
+        "image":"../src/data/profile-pics/prof-5.jpg",
+        "name":"Usara",
+        "post":"Doctor", 
+        "about":"dsfdsffdseldin ence and fghghghghgICT field about",
+        "interests":"iin SciencedvghghgICT fieldn Science and fghghghghgICT field",
+        "online": true,
+        "message": "Hey, I got COD Black Ops😁😂."
+    }
+]

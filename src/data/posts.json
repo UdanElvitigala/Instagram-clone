@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "name" : "Lasith_Malinga",
+        "image": "./src/data/posts/post1.jpg",
+        "likes" : 7834,
+        "comment" : "#Malinga_99 #Yorker_King #Cricket",
+        "liked" : false
+    },
+    {
+        "id" : 2,
+        "name" : "Kyle_Cook",
+        "image": "./src/data/posts/post2.jpg",
+        "likes" : 984,
+        "comment" : "Flutter Coding Beauty Is Like this. Only The Developers Can Get This Joy 🙂💞",
+        "liked" : false
+    },
+    {
+        "id" : 3,
+        "name" : "AB_De_Villers",
+        "image": "./src/data/posts/post3.jpg",
+        "likes" : 73454,
+        "liked" : false
+    },
+    {
+        "id" : 4,
+        "name" : "Pathumi_Perera",
+        "image": "./src/data/posts/post4.jpg",
+        "likes" : 55,
+        "comment" : "Life Is Beautiful 🙂❤️",
+        "liked" : false
+    },
+    {
+        "id" : 5,
+        "name" : "Virat_Kholi",
+        "image": "./src/data/posts/post5.jpg",
+        "likes" : 1223434,
+        "comment" : "#Virat #King_Kholi #RCB #18 #Anushka #India #Cricket ",
+        "liked" : false
+    },
+    {
+        "id" : 6,
+        "name" : "Nasa",
+        "image": "./src/data/posts/post6.jpg",
+        "likes" : 32352,
+        "comment" : "Flutter Coding Beauty Is Like this. Only The Developers Can Get This Joy 🙂💞",
+        "liked" : false
+
+    }
+]
